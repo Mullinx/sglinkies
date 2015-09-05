@@ -25,7 +25,7 @@ It's very simple since I have little idea on how to make userscripts... it's jus
 
 ### Footer Links
 - Regions
-- 
+
 ---
 
 ### TODO
