@@ -1,34 +1,33 @@
-# sglinkies
-adds handy links to steamgifts.com top-menu and footer
+# SGLinkies
+<< Adds handy links to steamgifts.com top-menu, footer and inner-pages >>
 
-this scripts adds links to pages and threads that unfortunately are hidden or buried in the forums.
-it's very simple since i have little idea on how to make userscripts... it's just a convenience add-on with shortcuts.
+This scripts adds links pointing to pages and threads that unfortunately are hidden or buried in the forums.
+It's very simple since I have little idea on how to make userscripts... it's just a convenience add-on with shortcuts.
 
 ### [Download](https://github.com/Mullinx/sglinkies/blob/6aa37052deda4f4201a001ba7a2ab2a3407c9f4a/sglinkies.js)
 
-**it adds elements in these menu/places:**
+**It will add elements in these menu/places:**
 
-### giveaway menu
-- hidden giveaways config
-- bundle list
+### Giveaway Menu
+- Hidden Giveaways
+- Bundle List
 
-### discussions menu
-- **useful threads**
-- find id
-- list cv
-- list banned games
-- sg addons
-- zelgh puzzling
+### Discussions Menu
+- Find User by Steam ID
+- List CV
+- List of Banned Games
+- SG Add-ons
+- Zelghadis' Guide to Puzzling
 
-### user menu
-- whitelist
-- blacklist
+### User Menu
+- Whitelist
+- Blacklist
 
-### footer links
-- regions
-
+### Footer Links
+- Regions
+- 
 ---
 
 ### TODO
-- add shortcuts inside pages ()
-- add more menu links :3
+- Add shortcuts inside pages ()
+- Add more menu links :3
