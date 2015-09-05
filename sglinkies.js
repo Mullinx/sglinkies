@@ -9,7 +9,6 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
-
 // inject custom style
 function addGlobalStyle(css) {
     var head, style;
