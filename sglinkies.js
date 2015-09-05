@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         SGLinkies
-// @namespace    http://your.homepage/
+// @namespace    https://github.com/Mullinx/sglinkies
 // @version      1.0
 // @description  add links to steamgifts menu and pages
 // @author       Mullins
 // @match        http://www.steamgifts.com/*
-// @require      http://code.jquery.com/jquery-2.1.3.min.js
+// @require
 // @grant        GM_addStyle
 // ==/UserScript==
 
